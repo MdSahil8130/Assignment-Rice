@@ -1,0 +1,35 @@
+{
+    "plans": [
+      {
+        "details": "Plan A",
+        "planType": "Fixed",
+        "gimmick": "None",
+        "energyCharge": "0.08 ¢/kWh",
+        "rates": {
+          "500kWh": "0.08 ¢/kWh",
+          "1000kWh": "0.08 ¢/kWh",
+          "2000kWh": "0.08 ¢/kWh"
+        },
+        "baseCharge": "None",
+        "usageFee": "None",
+        "etf": "$20/mo",
+        "billCredit": "None"
+      },
+      {
+        "details": "Plan B",
+        "planType": "Fixed",
+        "gimmick": "Base Charge",
+        "energyCharge": "0.067 ¢/kWh",
+        "rates": {
+          "500kWh": "0.067 ¢/kWh",
+          "1000kWh": "0.067 ¢/kWh",
+          "2000kWh": "0.08 ¢/kWh"
+        },
+        "baseCharge": "None",
+        "usageFee": "None",
+        "etf": "$150",
+        "billCredit": "None"
+      }
+    ]
+  }
+  
